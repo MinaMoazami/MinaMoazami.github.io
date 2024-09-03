@@ -2,6 +2,6 @@
 
 # Hi There 👋
 
-## Sepehr was here!
+## Mina was here!
 
-[Come Check here](https://github.com/SepehrSeifiZarei)
+[Come Check here](MinaMoazami.github.io)
