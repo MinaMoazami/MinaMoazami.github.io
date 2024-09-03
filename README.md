@@ -4,4 +4,4 @@
 
 ## Mina was here!
 
-[Come Check here](MinaMoazami.github.io)
+[Come Check here](minamoazami.github.io)
